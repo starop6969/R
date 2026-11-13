@@ -21,7 +21,7 @@ requests.packages.urllib3.disable_warnings()
 
 # ── config ────────────────────────────────────────────────────────────────────
 MIN_FOLLOWERS    = 0
-THREADS_START    = 6
+THREADS_START    = 100
 USER_ID_MIN      = 2500000000
 USER_ID_MAX      = 21254029834
 TL_FILE          = "tl.txt"
